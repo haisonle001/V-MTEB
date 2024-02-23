@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: V-MTEB
+Version: 1.0.0
+Summary: Vietnamese Massive Text Embedding Benchmark
+Home-page: https://github.com/haisonle001/V-MTEB/tree/main
+Author-email: nguyenducnhan.work@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: mteb[beir]
+
 <h1 align="center">Vietnamese Massive Text Embedding Benchmark</h1>
 <p align="center">
     <a href="https://www.python.org/">
